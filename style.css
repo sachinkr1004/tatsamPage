@@ -1,0 +1,49 @@
+.header {
+    display: flex;
+    background-color: rgb(101, 179, 101);
+    align-items: center;
+}
+
+.header-img {
+    width: 7rem;
+    height: 6rem;
+}
+
+.title {
+    margin-left: 30rem;
+    font-size: 3rem;
+    color: whitesmoke;
+}
+
+.about,.department,.join,.form-container {
+    margin: 1rem;
+}
+
+.department-content {
+    margin-left: 1.5rem;
+}
+
+.content,.department-content {
+    font-size: 1.2rem;
+}
+
+.form-item {
+    width: 20rem;
+}
+
+.join {
+    margin-bottom: 1rem;
+}
+
+p,label {
+    font-size: large;
+}
+.fieldset-item{
+    border: solid 2px rgb(26, 24, 24);
+}
+.submit{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    padding: 4px 6px;
+}
